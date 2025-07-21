@@ -9,8 +9,6 @@
 
 - 🤝 I’m looking for help with **Software Developmentt**
 
-- 📝 I regularly write articles on [academic.oup.com](academic.oup.com)
-
 - 💬 Ask me about **Tech & Development**
 
 - 📫 How to reach me **felipecampolinacc@gmail.com**
