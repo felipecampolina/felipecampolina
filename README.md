@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [SACIH+ Integration System](https://plus.sacihweb.com/auth/login)
 
-- 🌱 I’m currently learning **Docker , Kubbernets and Ethical Hacking**
+- 🌱 I’m currently learning **Docker , Kubbernets, Go and Ethical Hacking**
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
