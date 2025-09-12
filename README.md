@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
-- 🤝 I’m looking for help with **Software Developmentt**
+- 🤝 I’m looking for help with **Software Development**
 
 - 💬 Ask me about **Tech & Development**
 
