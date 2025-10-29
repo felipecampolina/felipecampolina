@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **felipecampolinacc@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1XD2DwT5fVuFWgTsmMW1AVmXPcR8QeRAr/view?usp=sharing](https://drive.google.com/file/d/12VqJN8CDYtcAXhnyOiMcQeuJ6pCzagca/view?usp=sharing)](https://drive.google.com/file/d/1XD2DwT5fVuFWgTsmMW1AVmXPcR8QeRAr/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/12VqJN8CDYtcAXhnyOiMcQeuJ6pCzagca/view?usp=sharing](https://drive.google.com/file/d/12VqJN8CDYtcAXhnyOiMcQeuJ6pCzagca/view?usp=sharing)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
