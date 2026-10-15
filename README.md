@@ -16,7 +16,7 @@ I build software that connects **people, data, and healthcare**. My work focuses
 
 ## About me
 
-- 💻 I work on **SACIH+**, a healthcare integration platform.
+- 💻 I’m currently working on [SACIH+ Integration System](https://plus.sacihweb.com/auth/login)
 - 🧩 I enjoy solving problems across backend, frontend, databases, and infrastructure.
 - 🌱 Currently learning **Go, Kubernetes, Docker, and ethical hacking**.
 - 🤝 Open to collaborating on thoughtful **open-source and software projects**.
